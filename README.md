@@ -1,4 +1,4 @@
-** Hi 👋, I'm Federico Mencuccini **
+**Hi 👋, I'm Federico Mencuccini**
 
 *Aspiring Azure Solutions Architect or Administrator with Systems Administration expertise.*
 
