@@ -1,5 +1,11 @@
+** Hi 👋, I'm Federico Mencuccini **
 
-Hi 👋, I'm Federico Mencuccini
+*Aspiring Azure Solutions Architect or Administrator with Systems Administration expertise.*
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=
+
+
+
 
 
 - 👋 Hi, I’m @donebyfreddy
