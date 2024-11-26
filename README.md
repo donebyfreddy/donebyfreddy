@@ -5,7 +5,7 @@
 
 ---
 
-### 🌱 **Learning TypeScript, Mastering React ⚡**  
+### 🌱 **Learning Azure, Mastering Systems Administration ⚡**  
 - 💡 Ask me anything about **JavaScript** or **React**!  
 - 💼 Any freelance opportunities? Reach out to me via [**email**](mailto:mhamzashaikh@example.com).  
 
