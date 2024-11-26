@@ -1,3 +1,7 @@
+
+Hi 👋, I'm Federico Mencuccini
+
+
 - 👋 Hi, I’m @donebyfreddy
 - 👀 I’m interested in Cloud Tecnhologies in Azure and AWS
 - 🌱 I’m currently learning how to use Azure by creating Projects
