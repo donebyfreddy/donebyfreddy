@@ -1,5 +1,5 @@
-# Hi 👋, I'm Muhammad Hamza Shaikh  
-**A Self-Motivated Software Engineer & a passionate MERN Stack developer**  
+# Hi 👋, I'm Federico Oliver Mencuccini
+**A Aspiring Azure Solutions Architect or Administrator with Systems Administration expertise.**  
 
 ![Profile views](https://komarev.com/ghpvc/?username=mhamzashaikh&label=Profile%20views&color=0e75b6&style=flat)  
 
@@ -48,7 +48,7 @@
 
 **Hi 👋, I'm Federico Mencuccini**
 
-*Aspiring Azure Solutions Architect or Administrator with Systems Administration expertise.*
+**
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=
 
