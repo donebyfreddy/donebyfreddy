@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 **Continuing My Journey to Becoming an Azure Administrator ⚡**  
-I am passionate about advancing my skills in Azure by creating impactful projects that showcase both PaaS and IaaS solutions. My ultimate goal is to become an Azure expert and pave the way towards becoming a Solutions Architect. Leveraging my strong foundation in Systems Administration, I am dedicated to bridging the gap between on-premises and cloud environments, ensuring seamless and efficient solutions.
+I am a highly motivated individual, passionate about advancing my skills in Azure and striving to become an expert in the field. By creating impactful projects that showcase both PaaS and IaaS solutions, I aim to bridge the gap between on-premises and cloud environments. My ultimate goal is to grow as a professional and pave the way toward becoming a Solutions Architect.
 
 ---
 
@@ -16,13 +16,18 @@ I am passionate about advancing my skills in Azure by creating impactful project
 ---
 
 ### **Languages and Tools I Work With:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-FCC624?style=for-the-badge&logo=vmware&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+
 
 ---
 
