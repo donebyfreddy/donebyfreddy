@@ -12,11 +12,8 @@ I am a very motivated person looking to become an expert in Azure, continuously 
 
 ### **Connect with me:**  
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/fomencuccini" target="_blank" style="text-decoration: none;">
-        <button style="display: flex; align-items: center; justify-content: center; background-color: #0A66C2; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 18px; font-weight: bold; cursor: pointer;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" width="30" height="30" style="margin-right: 10px;" />
-            Connect with me
-        </button>
+    <a href="https://www.linkedin.com/in/fomencuccini" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
     </a>
 </div>
 
