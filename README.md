@@ -1,5 +1,5 @@
 # Hi 👋, I'm Federico Oliver Mencuccini
-**A Highly Motivated Aspiring Azure Solutions Architect or Administrator with Systems Administration expertise.**  
+**A Highly Motivated Aspiring Azure Administrator with Systems Administration expertise.**  
 
 ![Profile views](https://komarev.com/ghpvc/?username=donebyfreddy)
 
