@@ -13,7 +13,7 @@ I am a very motivated person looking to become an expert in Azure, continuously 
 ### **Connect with me:**  
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
     <a href="https://www.linkedin.com/in/fomencuccini" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn Logo" width="50" height="50" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" width="50" height="50" />
     </a>
     <a href="https://www.linkedin.com/in/fomencuccini" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;">
         Connect with me
