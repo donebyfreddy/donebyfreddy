@@ -17,7 +17,7 @@ I am a very motivated person looking to become an expert in Azure, continuously 
     </a>
 </div>
 
-[![My Website](https://fomencuccini.tech/images/FO.webp)](https://www.fomencuccini.tech)
+[![My Website](https://fomencuccini.tech/images/FM.webp)](https://www.fomencuccini.tech)
 
 
 
