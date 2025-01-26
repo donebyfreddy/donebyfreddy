@@ -12,12 +12,15 @@ I am a very motivated person looking to become an expert in Azure, continuously 
 
 ### **Connect with me:**  
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/fomencuccini" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
+    <a href="https://www.linkedin.com/in/fomencuccini" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" width="20" height="20" />
+        LinkedIn
+    </a>
+    <a href="https://www.fomencuccini.tech" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+        <img src="https://fomencuccini.tech/images/FM.webp" alt="Portfolio Logo" width="20" height="20" />
+        Portfolio
     </a>
 </div>
-
-[![My Website](https://fomencuccini.tech/images/FM.webp)](https://www.fomencuccini.tech)
 
 
 
